@@ -6,9 +6,9 @@ This fork translates the Portuguese comments (and in limited cases, some
 strings) to English. The translation was performed by Clayton T. Morrison 
 (github: cl4yton, email: claytonm@arizona.edu)
 (with heavy use of Google Translate) in April 2022. Everything else 
-maintains the original implementation up to the time of the fork. All 
-acknowledgements should still reference the original paper and acknowledge 
-the author Leonard F. S. Scabini.
+maintains the original implementation up to the time of the fork (April 15, 
+2022). All acknowledgements should still reference the original paper and 
+acknowledge the author *Leonard F. S. Scabini*.
 
 ### Comment notation
 
