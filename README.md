@@ -1,5 +1,28 @@
 # COmplexVID-19
 
+## Notes on Fork
+
+This fork translates the Portuguese comments (and in limited cases, some 
+strings) to English. The translation was performed by Clayton T. Morrison 
+(github: cl4yton, email: claytonm@arizona.edu)
+(with heavy use of Google Translate) in April 2022. Everything else 
+maintains the original implementation up to the time of the fork. All 
+acknowledgements should still reference the original paper and acknowledge 
+the author Leonard F. S. Scabini.
+
+### Comment notation
+
+In general, all comments provide English translation of the original 
+Portuguese at the locations of the original comment. Two additional types of 
+comments were sparingly introduced, and indicated by starting with the 
+following tags: 
+* `<ctm>`: additional comments, generally noting the English translation of 
+  Portuguese words used as the basis of code identifiers.
+* `<ctm-code>`: commented out version of the original code that has now been 
+  replaced (generally due to changing a string).
+
+## Introduction
+
 Source code for the paper:
 
 "Social interaction layers in complex networks for the dynamical epidemic modeling of COVID-19 in Brazil."
