@@ -19,7 +19,8 @@ following tags:
 * `<ctm>`: additional comments, generally noting the English translation of 
   Portuguese words used as the basis of code identifiers.
 * `<ctm-code>`: commented out version of the original code that has now been 
-  replaced (generally due to changing a string).
+  replaced (generally due to translating a Portuguese word/phrase in a 
+  string to English).
 
 ## Introduction
 
